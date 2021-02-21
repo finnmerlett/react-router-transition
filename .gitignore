@@ -1,9 +1,6 @@
 .DS_Store
 *.swp
 
-example/bundle.*
-
-lib
 es
 
 node_modules
